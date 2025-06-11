@@ -62,16 +62,16 @@ function TopPage() {
               <div className="wrap">
                 <div className="site-part">
                   <div className="site-part-thumb">
-                    <img src="/assets/images/site01.png" alt=""/>
+                    <Image src="/assets/images/site01.png" alt="" width={300} height={300} />
                   </div>
                   <h3 className="site-part-title">
-                    大自然の恵み”トンカットアリ” <br/>
+                    大自然の恵み"トンカットアリ" <br/>
                     製造している製品の含有成分は７種類の自然成分です。
                   </h3>
                 </div>
                 <div className="site-part">
                   <div className="site-part-thumb">
-                    <img src="/assets/images/site02.png" alt=""/>
+                    <Image src="/assets/images/site02.png" alt="" width={300} height={300} />
                   </div>
                   <h3 className="site-part-title">
                     私たちはETUMAX社マレーシアで純正ロイヤルハニーを<br/>
@@ -80,7 +80,7 @@ function TopPage() {
                 </div>
                 <div className="site-part">
                   <div className="site-part-thumb">
-                    <img src="/assets/images/site03.png" alt=""/>
+                    <Image src="/assets/images/site03.png" alt="" width={300} height={300} />
                   </div>
                   <h3 className="site-part-title">
                     円満な夫婦・恋人との夜の性生活に <br/>
